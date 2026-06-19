@@ -1,11 +1,12 @@
-# Pre Security Path - Module: DNS in Detail
+# Pre Security Path - Module: HTTP in Detail
 
-**Date:** YYYY-MM-DD
+**Date:** 2026-06-16
+
 **Source:** TryHackMe Pre Security Path
 
 ## What I learned
 
-- Brief concept summary in your own words
+- 
 
 ## What confused me initially
 
