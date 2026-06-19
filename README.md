@@ -10,13 +10,13 @@ Each entry follows the same format: What I learned → What confused me initiall
 
 ## Index
 
-### TryHackMe — Pre Security Path
+### TryHackMe - Pre Security Path
 
 **Module 2: How the Web Works**
 
 | Room | Status | Link |
 |------|--------|------|
-| DNS in Detail | ✅ Done | [View](pre-security/how-the-web-works/dns-in-detail/README.md) |
+| DNS in Detail | ✅ Done | [View](thm-paths/pre-security/how-the-web-works/dns-in-detail) |
 | HTTP in Detail | ⬜ Not started | [View](pre-security/how-the-web-works/http-in-detail/README.md) |
 | How Websites Work | ⬜ Not started | [View](pre-security/how-the-web-works/how-websites-work/README.md) |
 
