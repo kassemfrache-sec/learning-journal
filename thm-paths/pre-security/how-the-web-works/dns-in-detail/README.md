@@ -1,7 +1,18 @@
-### TryHackMe — Pre Security Path
+# Pre Security Path - Module: DNS in Detail
 
-**Module 2: How the Web Works**
+**Date:** YYYY-MM-DD
+**Source:** TryHackMe Pre Security Path
 
-| Room | Status | Link |
-|------|--------|------|
-| DNS in Detail | ✅ Done | [View](thm-paths/pre-security/how-the-web-works/dns-in-detail/README.md) |
+## What I learned
+
+- Brief concept summary in your own words
+
+## What confused me initially
+
+- The actual sticking point, and how you resolved it
+
+## How it connects
+
+- Link to something else you've learned (e.g. "this is why DNS recon in
+  the room I did last week worked the way it did")
+
