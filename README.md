@@ -31,7 +31,7 @@ Each entry follows the same format: What I learned → What confused me initiall
 | DNS in Detail | ✅ Done | [View](thm-paths/pre-security/how-the-web-works/dns-in-detail/README.md) |
 | HTTP in Detail |✅ Done | [View](thm-paths/pre-security/how-the-web-works/http-in-detail/README.md) |
 | How Websites Work | ✅ Done | [View](thm-paths/pre-security/how-the-web-works/how-websites-work/README.md) |
-| Puttting it all together | ⬜ Not started | [View](thm-paths/pre-security/how-the-web-works/putting-it-all-together/README.md) |
+| Puttting it all together | ✅ Not started | [View](thm-paths/pre-security/how-the-web-works/putting-it-all-together/README.md) |
 
 ---
 
