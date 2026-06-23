@@ -1,19 +1,16 @@
-# Pre Security Path - Module: DNS in Detail
+# Pre Security Path - Room: Computer Types
 
-**Date:** YYYY-MM-DD
-**Source:** TryHackMe Pre Security Path
+**Date:** 06-21-2026
+**Source:** Pre Security Path
 
 ## What I learned
 
-- Brief concept summary in your own words
+-I understood some important key points connecting to the previous room, hardware builds devices and computing connect it together you have different devices for different use cases which is the point exactly of this room types of devices built by hardware.
 
 ## What confused me initially
 
-- The actual sticking point, and how you resolved it
+-  The distinct difference between Embedded devices and IoT kind of made me confused at first they have single-use purposes one is embedded into devices hence the name and one communicates with central units (servers) which means it connects to networks hence its name (Internet of Things).
 
 ## How it connects
 
-- Link to something else you've learned (e.g. "this is why DNS recon in
-  the room I did last week worked the way it did")
-
-## Resources that helped
+-As I said before hardware gets put together we get devices and computing functions for many different devices for varies use cases devices we interact with daily and things we don't all hardware built (Software comes later 😁).
