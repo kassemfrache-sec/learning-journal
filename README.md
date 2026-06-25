@@ -1,6 +1,6 @@
 # Learning Journal
 
-A log of what I'm learning as I work toward becoming a penetration tester — networking fundamentals, security concepts, and the reasoning behind them.
+A log of what I'm learning as I work toward becoming a penetration tester - networking fundamentals, security concepts, and the reasoning behind them.
 
 ## About
 
